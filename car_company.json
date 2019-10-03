@@ -1,0 +1,9 @@
+{
+  "cars": [
+    { "id": 1, "companyName": "Audi" },
+    { "id": 2, "companyName": "BMW" },
+    { "id": 3, "companyName": "Mercedes" },
+    { "id": 4, "companyName": "Honda" },
+    { "id": 5, "companyName": "Suzuki" },
+  ]
+}
